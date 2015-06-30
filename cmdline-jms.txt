@@ -8,3 +8,7 @@ You are disconnected at the moment. Type 'connect' to connect to the server or '
 jms-queue add  --queue-address=saraqueuename --entries=java:/saraqueuejndiname
 
 jms-topic add  --topic-address=saratopicname --entries=java:/saratopicjndiname
+
+
+jbkugjbkuv
+kbubhjbkjbh
