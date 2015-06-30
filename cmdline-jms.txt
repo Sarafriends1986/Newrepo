@@ -1,0 +1,10 @@
+for standalone:
+
+[root@localhost bin]# ./jboss-cli.sh
+You are disconnected at the moment. Type 'connect' to connect to the server or 'help' for the list of supported commands.
+[disconnected /] connect 192.168.72.128
+
+
+jms-queue add  --queue-address=saraqueuename --entries=java:/saraqueuejndiname
+
+jms-topic add  --topic-address=saratopicname --entries=java:/saratopicjndiname
